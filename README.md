@@ -12,3 +12,6 @@
 - Поздравительный текст (сообщение)
 - Подпись отправителя
 - Фоновое изображение
+
+## Скрин приложения
+<img width="528" height="1129" alt="image" src="https://github.com/user-attachments/assets/3c4a52de-a043-42a7-9400-9c24c2fac74b" />
